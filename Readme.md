@@ -1,7 +1,6 @@
 # Личный проект «Глейси»
 
 * Студент: [Eugenia Naumova](https://up.htmlacademy.ru/htmlcss/14/user/210663).
-* Наставник: `Неизвестно`.
 
 ---
 
